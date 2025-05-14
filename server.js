@@ -8,7 +8,7 @@ const port = process.env.PORT || 3000;
 const PAGE_ACCESS_TOKEN = 'EAAeb6KPJsPgBO1ZAbaYAf9VdqDtLM3pattsyCjfI14294poKBVE3ty4Hs8JlkXmiXvmIAJbTolAqmIyGgy6hHZARecxc4yqNNVirWq3tqAZAJmPBZAEFbFCRRZBJaAv8iA7CuMznlpZCWhthq8iFHPy9iyMgsWKdkTHOb67UtcdB9eVE0tQUgVfzmI1lBy0ZBshLQZDZD';
 
 // Your Facebook Verification Token
-const VERIFY_TOKEN = 'YOUR_VERIFICATION_TOKEN';
+const VERIFY_TOKEN = 'Anu1677##';
 
 // Setup body-parser middleware
 app.use(bodyParser.json());
